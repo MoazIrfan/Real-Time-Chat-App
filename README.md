@@ -1,5 +1,7 @@
 # Real-Time-Chat-App
 
+![Screenshot](real-time-chat-app-screenshot.png)
+
 > Real-time chat application using Socket.IO, built with latest React version 18.3.1 and styled with Material UI 5.15.19.
 
 ## Installation
